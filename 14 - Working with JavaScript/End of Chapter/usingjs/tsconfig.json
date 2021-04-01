@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "target": "es2020",
+        "outDir": "./dist",
+        "rootDir": "./src",
+        "module": "commonjs",
+        // "allowJs": true,
+        // "checkJs": true,
+        // "baseUrl": ".",
+        // "paths": {
+        //     "*": ["types/*"]
+        // },
+        "esModuleInterop": true,
+        "declaration": true        
+    }
+}
