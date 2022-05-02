@@ -1,13 +1,9 @@
 # Errata for *Essential TypeScript 4*
 
-On **page xx** [Summary of error]:
- 
-Details of error here. Highlight key pieces in **bold**.
+**Chapter 10**
 
-***
+The example in **Listing 10-22** doesn't produce the expected results because, as the chapter notes, there is no intersection between the `number` and `string` types. Please ignore the results from this listing.
 
-On **page xx** [Summary of error]:
- 
-Details of error here. Highlight key pieces in **bold**.
+(Thanks to Bersez Nathan - aka GazousGit - for reporting this issue)
 
 ***
