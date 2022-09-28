@@ -1,5 +1,7 @@
 # Errata for *Essential TypeScript 4*
 
+This file contains errors that are likely to prevent the code examples from working as described in ths book. See [this](typos.md) file for small mistakes that I intend to correct in the next edition.
+
 **Chapter 10**
 
 The example in **Listing 10-22** doesn't produce the expected results because, as the chapter notes, there is no intersection between the `number` and `string` types. Please ignore the results from this listing.
