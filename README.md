@@ -1,6 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*%title%*](https://www.apress.com/9781484270103) by Adam Freeman (Apress, 2021).
+This repository accompanies [Essential TypeScript 4](https://www.apress.com/9781484270103) by Adam Freeman (Apress, 2021).
 
 [comment]: #cover
 ![Cover image](9781484270103.jpg)
